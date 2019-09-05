@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="resultado">#2fbfa7</color>
+    <color name="mensaje">#bfaf1b</color>
+    <color name="fondo">#ff5c46</color>
+    <color name="boton">#4652bf</color>
+    <color name="letra_bot">#fafff0</color>
+    <color name="letra">#2cff33</color>
+</resources>
